@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @jlkgustavo88
-- 👀 I’m interested in ♒
-- 🌱 I’m currently learning ℹ️
-- 💞️ I’m looking to collaborate on 💻
-- 📫 How to reach me 🎶
-
-<!---
-jlkgustavo88/jlkgustavo88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi.... Sou o José Gustavo Pontes!
+- Sou de Antonina, no estado do Paraná.
+- Estou participando do Formadores em Pensamento Computacional 2023.![2](https://user-images.githubusercontent.com/115049697/193954041-3f7d0ac1-fabd-4e77-a5bd-4ed41327739e.png)
